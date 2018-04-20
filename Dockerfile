@@ -1,4 +1,5 @@
 FROM ruby:rc-alpine
+
 MAINTAINER interhack
 
 WORKDIR /opt/
